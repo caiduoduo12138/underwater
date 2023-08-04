@@ -1,0 +1,11 @@
+torch>=1.7
+mmcv
+numpy
+torchvision
+matplotlib
+cython
+numpy == 1.17
+Pillow
+tqdm
+pycocotools
+seaborn
